@@ -1,0 +1,11 @@
+first line
+second line
+third line
+sh
+hello word
+echo $PATH
+hello python
+other things
+somg sentences
+may be someone
+oh
